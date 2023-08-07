@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    text-align: center;
+}
+body {
+    background-color: lightgrey;
+    color: blue;
+  }
+ #l{
+    text-align: left;
+ } 
+
+ #r{
+    text-align: right;
+ } 
